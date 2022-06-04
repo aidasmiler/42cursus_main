@@ -25,6 +25,10 @@
 
 ### [$> Minishell: Custom Bash-like Shell](https://github.com/aidasmiler/minishell_wip) [![airodrig's 42 minishell Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2548579)](https://github.com/JaeSeoKim/badge42)
 
-<!--- ### ⌨ Exam Rank 04      [![airodrig's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2403522)](https://github.com/JaeSeoKim/badge42) --->
+### ⌨ Exam Rank 03 [![airodrig's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2610197)](https://github.com/JaeSeoKim/badge42)
 
 ### [📶 NetPractice]()     [![airodrig's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2595330)](https://github.com/JaeSeoKim/badge42)
+
+### [⚡ MiniRT]() [![airodrig's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2610196)](https://github.com/JaeSeoKim/badge42)
+
+### [©️➕➕ CPPs]()
