@@ -9,7 +9,7 @@
 
 ### [📑 Get Next Line: reading from a file descriptor line by line](https://github.com/aidasmiler/GetNextLine)      [![airodrig's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2382471)](https://github.com/JaeSeoKim/badge42)
 
-### [📝 ft_printf: recoding printf function](https://github.com/aidasmiler/printf)      [![airodrig's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2382472)](https://github.com/JaeSeoKim/badge42)
+### [📝 ft_printf: recoding printf function](https://github.com/aidasmiler/ft_printf)      [![airodrig's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2382472)](https://github.com/JaeSeoKim/badge42)
 
 ### ⌨ Exam Rank 02      [![airodrig's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2403522)](https://github.com/JaeSeoKim/badge42)
 
