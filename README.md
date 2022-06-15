@@ -49,6 +49,6 @@
 
 ### 📶 NetPractice     [![airodrig's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2595330)](https://github.com/JaeSeoKim/badge42)
 
-### ⚡ cub3d [![airodrig's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2610196)](https://github.com/JaeSeoKim/badge42)
+### ⚡ cub3d [![airodrig's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2620279)](https://github.com/JaeSeoKim/badge42)
 
 ### ©️➕➕ CPPs
